@@ -1,3 +1,10 @@
-header{
-    background-color: blueviolet;
+header,main,footer{
+    padding:30px;
+}
+nav ul{
+    list-style-type:none;
+    margin:0;
+    padding:0;
+    display:flex;
+    gap:10px
 }
